@@ -1,0 +1,48 @@
+.App {
+    text-align: center;
+    background-color: #1f1f1f;
+    background-image: url('./180-1801189_dark-anime-good-wallpaper-illustration.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 70vh;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    padding-top: 30vh;
+    overflow-y: scroll;
+}
+
+input {
+    display: block;
+    margin: 2rem auto 1rem auto;
+    border: none;
+    background-color: #ffffff;
+    color: rgb(7, 7, 7);
+    font-size: 1.5rem;
+    text-align: center;
+    outline: none;
+    padding: 0.5rem;
+}
+
+button {
+    display: block;
+    margin: 1rem auto 4rem auto;
+    border: none;
+    background-color: #0c0c0c;
+    color: rgb(253, 253, 253);
+    font-size: 1.5rem;
+    text-align: center;
+    outline: none;
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+button:hover {
+    background-color: #000000;
+}
+
+#out {
+    background-color: #000000;
+    padding: 1rem;
+}
